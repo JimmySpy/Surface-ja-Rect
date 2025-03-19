@@ -6,8 +6,6 @@ Selle praktilise töö eesmärk oli kasutada Pygame'i, et luua graafiline aken, 
 Programmi käivitamisel avaneb Pygame aken (640x480), mille taustaks on hele sinine (`lBlue`). Akna peale joonistatakse erinevaid ringe, mis on lisatud `Surface`-ile. Pärast joonistamist kuvatakse `Surface` ekraanil mitmes kohas `blit()` meetodiga.
 Mäng jääb avatuks, kuni kasutaja vajutab "X" nuppu, et see sulgeda.
 
-**GitHub link:** *(Lisa GitHubi repo link siia, kui on olemas)*
-
 **Töötasin:** Üksi.
 
 **Abi saamine ja andmine:** Koodi kirjutamisel sain inspiratsiooni ja abi Pygame dokumentatsioonist ning kaasõpilastelt, kellega arutasime `Rect` kasutamist. Aitasin teisi selgitades `set_colorkey()` funktsiooni kasutamist läbipaistvuse jaoks.
