@@ -68,5 +68,5 @@ Jah, õppisin järgmisi uusi tehnikaid:
 
 ---
 
-**Kokkuvõttes:** See projekt andis hea ülevaate Pygame põhifunktsioonidest ja `Rect` kasutamisest. Tulevikus võiks lisada rohkem interaktiivsust ja testimist. 🚀
+**Kokkuvõttes:** See projekt andis hea ülevaate Pygame põhifunktsioonidest ja `Rect` kasutamisest. Tulevikus võiks lisada rohkem interaktiivsust ja testimist. 
 
