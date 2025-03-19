@@ -1,7 +1,3 @@
-**TARKVARAARENDUSE PROJEKTI DOKUMENTATSIOON**
-
----
-
 ## **1. Praktilise töö sooritamise käik**
 **Eesmärk:**
 Selle praktilise töö eesmärk oli kasutada Pygame'i, et luua graafiline aken, millele lisatakse erinevaid kujundeid (ringid) ja pindasid (Surface). Lisaks oli vaja mõista `Rect` objekti ja selle omadusi.
